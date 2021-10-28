@@ -1,8 +1,17 @@
-# phantom
-Secure instant messaging app using sockets, written in python
-
-![Image](https://github.com/f34rl00/phantom/blob/master/logos/logo_6_scaled_white.png)  
-*Currently under development.*
+<div align="center">
+  <p align="center">
+    <img alt="ss1" src="https://raw.githubusercontent.com/f34rl00/phantom/main/images/logo_6_scaled_white.png">
+  </p>
+  <h1>
+    phantom
+  <h1>
+  <h2>
+    Secure instant messaging app using sockets, written in python
+  </h2>
+  <b>
+    Currently under development.
+  </b>
+</div>
 
 ### Problems and TODO List:
 - [ ] Graphical User Interface with PyQT https://wiki.python.org/moin/PyQt
