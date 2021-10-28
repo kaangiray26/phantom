@@ -69,4 +69,3 @@
 
 ## Help to keep this project alive
 - Bitcoin: 34J7KM8pq8rhzVgdhCuTT6tcSQheSAPRDN
-- Paypal: https://www.paypal.com/paypalme/my/profile
