@@ -9,7 +9,7 @@
     Secure instant messaging app using sockets, written in python
   </h2>
   <b>
-    Currently under development.
+    Currently under development in a private repository.
   </b>
 </div>
 
