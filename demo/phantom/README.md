@@ -1,31 +1,19 @@
 # phantom
-Secure instant messaging app using sockets, written in python
+## Cross-platform Secure Instant Messaging App
+ ![Image](https://github.com/Kaanthegmr/phantom/blob/master/logos/logo_6_scaled_white.png)
 
-![Image](https://github.com/f34rl00/phantom/blob/master/logos/logo_6_scaled_white.png)  
-*Currently under development.*
-
-## Installation of the demo app with the Debian Release
-```
-## Clone the repo
-$ git clone https://github.com/f34rl00/phantom
-
-## Change your directory
-$ cd phantom/demo/phantom
-
-## To install and run the server application:
-$ ./SERVER_INSTALLER.sh
-$ cd server
-$ python server.py
-
-## To install and run the client application:
-$ ./CLIENT_INSTALLER.sh
-$ cd client
-$ python client.py
-```
-
+## Installation
+   - On osx and linux:  
+   $ `git clone "https://github.com/Kaanthegmr/phantom.git"`  
+   $ `cd phantom/client`  
+   $ `pip install -r requirements.txt`  
+   $ `python client.py`  
 ### Problems and TODO List:
+- [ ] switching from mariadb to sqllite
+- [ ] Test Automatic Installer with virtual machine
 - [ ] Graphical User Interface with PyQT https://wiki.python.org/moin/PyQt
 - [ ] Create Documentation with https://readthedocs.org/
+- [ ] Automatic Installation (for both client and server)
 - [ ] Compare protocol with Signal's protocol and Session's protocol
 - [ ] MITM Attack Mitigation ?
 - [ ] Video Call
@@ -59,9 +47,6 @@ $ python client.py
 - [ ] Self destructing messages ?
 - [ ] Strip Meta-Data from Media
 - [ ] Decentralized Platforms
-- ~~[ ] switching from mariadb to sqllite~~
-- [x] Automatic Installation (for both client and server)
-- [x] Test Automatic Installer with virtual machine
 - [x] A better logo :\
 - [x] Python 3 port
 - [x] Voice call
