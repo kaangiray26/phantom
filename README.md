@@ -16,20 +16,20 @@
 ## Installation of the demo app with the Debian Release
 ```
 ## Clone the repo
-$ git clone https://github.com/f34rl00/phantom
+git clone https://github.com/f34rl00/phantom
 
 ## Change your directory
-$ cd phantom/demo/phantom
+cd phantom/demo/phantom
 
 ## To install and run the server application:
-$ ./SERVER_INSTALLER.sh
-$ cd server
-$ python server.py
+./SERVER_INSTALLER.sh
+cd server
+python server.py
 
 ## To install and run the client application:
-$ ./CLIENT_INSTALLER.sh
-$ cd client
-$ python client.py
+./CLIENT_INSTALLER.sh
+cd client
+python client.py
 ```
 
 ### Problems and TODO List:
